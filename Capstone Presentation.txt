@@ -1,0 +1,3 @@
+Capstone Presentation
+
+This video is the presentation for my capstone research project for my MS in Data Science Program at Eastern University. I researched the ethical issues within Natural Language Processing pipelines, including not just technical aspects like data gathering and labeling and algorithm selection, but also issues of labor rights and technology access in the Global South.

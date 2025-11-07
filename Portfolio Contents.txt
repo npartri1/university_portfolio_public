@@ -23,3 +23,5 @@ Traditional Machine Learning
 -Final Project
 -Polynomial Regression
 -Ridge Regression
+
+Capstone Presentation
