@@ -1,0 +1,3 @@
+Linear Text Classification
+
+In this assignment I use the Natural Language Toolkit library to tokenize, preprocess, and extract features from training and test text. I then train a Naïve Bayes and a Perceptron model to label test text sentiment as positive or negative, before evaluating the two models and selecting the better model.

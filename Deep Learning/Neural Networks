@@ -1,0 +1,3 @@
+Neural Networks
+
+In this assignment, I build a binary classifier neural net to predict covid-19 diagnosis based on a variety of factors. It is in essence a structured first taste of what would become my final project, and features similar end-to-end data processing, neural net construction, and model evaluation.

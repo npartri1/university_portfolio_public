@@ -1,0 +1,3 @@
+Final Project
+
+In my final project for my Foundations of Machine Learning Class, I preprocess a large dataset on students in the Portuguese school system and train and tune a number of models to predict students' term grades. This project displays a wide variety of skills, including data cleaning and manipulation, feature evaluation and selection, data visualization, model building and evaluation, and critical analysis of the viability of models in a professional setting. It also displays softer skills like project development and management, documentation, and communication.

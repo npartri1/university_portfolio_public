@@ -1,0 +1,3 @@
+Hidden Markov Model Viterbi NLP
+
+In this assignment, I apply a Hidden Markov Model and Viterbi algorithm to the Brown Corpus for the purpose of probabilistic sequence tagging. I experiment with different Lidstone probability distribution gamma levels across a series of HMMs to determine the best amount of smoothing for my model.

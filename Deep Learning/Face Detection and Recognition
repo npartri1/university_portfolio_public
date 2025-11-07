@@ -1,0 +1,3 @@
+Face Detection and Recognition
+
+This assignment features applied transfer learning to build a face detection and recognition model. It includes handling training and test image data, loading the base model, neural network building and addition of the base model, model training, and finally model evaluation. 

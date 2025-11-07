@@ -1,0 +1,3 @@
+Ridge Regression
+
+In this assignment, I explore Ridge Regression as an alternative to standard Linear Regression and SGD Regression in order to build effective models for highly multicollinear datasets. I begin with creating a least-squares linear model and a SGD regression model, before creating a Ridge Regression model and evaluating it against the other models. I also completed a grid search to fine-tune the hyperparameters for the SGD model and the Ridge Regression  model.

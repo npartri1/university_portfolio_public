@@ -1,0 +1,3 @@
+PCA
+
+In this assignment, I use PCA and t-SNE to perform dimensionality reduction on a dataset, evaluating the efficacy of each method, calculating explained variance, and exporting my final model.

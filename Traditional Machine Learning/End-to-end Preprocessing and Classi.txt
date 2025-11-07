@@ -1,0 +1,3 @@
+End-to-end Preprocessing and Classification
+
+In this assignment, I preprocess 1994 census income data, including with a custom column transformer class, and train and evaluate Linear Regression, SGD Classifier, and Random Forest Classifier Models on their ability to accurately predict an individual's income level based on the given features. 

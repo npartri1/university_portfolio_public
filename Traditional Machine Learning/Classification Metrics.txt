@@ -1,0 +1,3 @@
+Classification Metrics
+
+In this assignment, I define classification metric functions from scratch and compare them to sister functions in the Sci-Kit Learn library. This assignment is designed to explore and help understand the math and logic behind evaluation metrics for traditional machine learning models.

@@ -1,0 +1,3 @@
+Polynomial Regression
+
+In this assignment, I explore the downsides of applying simple linear regression on non-linear data and apply polynomial transformation to the data in order to better capture the signal in the data with a linear regression model.

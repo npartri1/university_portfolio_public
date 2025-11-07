@@ -1,0 +1,25 @@
+Portfolio Contents
+
+Data Cleaning, Statistical Analysis and Model Building in R
+-Final Project part 1 
+-Final Project part 2
+
+Deep Learning
+-Binary Classifier Project
+-Face Detection and Recognition
+-ML Model Deployment with Flask
+-Neural Nets
+-PCA
+
+Natural Language Processing
+-CKY Parsing
+-Hidden Markov Model Viterbi NLP
+-Linear Text Classification
+-NGrams
+
+Traditional Machine Learning
+-Classification Metrics
+-End-to-end Preprocessing and Classification
+-Final Project
+-Polynomial Regression
+-Ridge Regression

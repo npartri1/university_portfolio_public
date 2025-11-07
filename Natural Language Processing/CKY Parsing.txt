@@ -1,0 +1,3 @@
+CKY Parsing
+
+In this assignment, I create a context-free grammar using the CKY Parsing algorithm. I utilize relevant modules from the Natural Language Toolkit library to convert input sentence trees to Chomsky Normal Form before creating a Probabilistic Context-Free Grammar, while handling unknown tokens, that I apply to unseen sentences.

@@ -1,0 +1,3 @@
+NGrams
+
+In this section, I share three assignments exploring NGrams. In the first, I use a unigram model to predict the next word in texts. In the second, I apply these concepts to Japanese text, in order to explore the unique challenges of tokenizing and processing non-Latin characters. Finally, in the third, I use larger NGrams to more accurately predict next words thanks to the increased context provided by larger NGram windows.
