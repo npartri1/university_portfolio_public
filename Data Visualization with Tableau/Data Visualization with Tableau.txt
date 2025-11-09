@@ -1,0 +1,3 @@
+Data Visualization with Tableau
+
+In my final project for my data visualization class, I used Tableau to perform exploratory analysis on a large dataset about retail stores across the country, created visualization implementing the principles I learned in this class, and created an interactive dashboard and presentation from my findings and visualizations.

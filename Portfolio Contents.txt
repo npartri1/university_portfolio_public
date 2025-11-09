@@ -4,6 +4,9 @@ Data Cleaning, Statistical Analysis and Model Building in R
 -Final Project part 1 
 -Final Project part 2
 
+Data Visualization with Tableau
+-Data Visualization with Tableau
+
 Deep Learning
 -Binary Classifier Project
 -Face Detection and Recognition
